@@ -1,0 +1,2 @@
+GazeRatio 0 0
+Center 0 0
