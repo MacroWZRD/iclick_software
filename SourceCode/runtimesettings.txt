@@ -1,3 +1,3 @@
-ScreenRatio -1 -2 -3 -4
+ScreenRatio 345.0 209.5 291.0 183.5
 Recalibrating 
 Inversed

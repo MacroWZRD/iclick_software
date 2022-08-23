@@ -1,2 +1,2 @@
-GazeRatio 0 0
-Center 0 0
+GazeRatio 364.0 210.0
+Center 1083 538
